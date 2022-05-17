@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hello 👋
+
+My name is Agustín, I'm from Argentina.
 
 <!--
-**AgustinNormand/AgustinNormand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ and I'm in the last year of my degree in information systems.
 
 Here are some ideas to get you started:
 
