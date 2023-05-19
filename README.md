@@ -25,6 +25,51 @@ Mi nombre es Agustín, tengo 24 años, soy de Argentina.
 - 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/normandagustin/) o envíandome un correo a <normandagustin@gmail.com>.
 
 <!--
+Música:
+
+Hobbies:
+
+Literatura:
+ Casciari
+ Siddartha
+ El extraño incidente de un perro a media noche
+
+Podcasts:
+ La Cruda
+ Coffe with gringos
+
+ StandUp
+  Nicolás de Tracy
+
+ 
+
+Follower De
+ 
+ Domótica
+  Un loco y su tecnología
+
+ Física
+  Javier Santaolalla
+ Huerta
+  Cosas del jardin
+
+ Informática
+   Pelado Nerd
+   DotCSV
+ 
+ Matemática
+  Traductor de ingeniería
+  Eduardo Saenz de Cabezón
+
+ Otros
+  Jaime Afterdark
+  Damian Kuc
+
+Miro despegues de SpaceX
+ 
+
+
+
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
