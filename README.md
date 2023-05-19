@@ -1,18 +1,35 @@
 ## Hello 👋
 
-My name is Agustín, I'm from Argentina.
+My name is Agustín, I'm 24 years old, and I'm from Argentina.
+
+- 🌱 Currently, I'm learning about Artificial Intelligence, Remote Sensing, and Image Processing.
+
+- 🔭 At the moment, I'm working on a deforestation detection project in forests using satellite image analysis and deep learning techniques.
+
+- 👨‍🎓 This project is part of my thesis to obtain a Bachelor's degree in Information Systems.
+
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/normandagustin/) or by sending me an email at <normandagustin@gmail.com>.
+
+
+
+## Hola 👋
+
+Mi nombre es Agustín, tengo 24 años, soy de Argentina.
+
+- 🌱 Actualmente estoy aprendiendo sobre Inteligencia Artificial, Teledetección y Procesamiento de Imágenes.
+
+- 🔭 En este momento estoy trabajando en un proyecto de detección de deforestación en bosques mediante análisis de imágenes satelitales aplicando técnicas de aprendizaje profundo.
+
+- 👨‍🎓 Dicho proyecto forma parte de mi tesina para obtener la Licenciatura en Sistemas de Información.
+
+- 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/normandagustin/) o envíandome un correo a <normandagustin@gmail.com>.
 
 <!--
- and I'm in the last year of my degree in information systems.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
