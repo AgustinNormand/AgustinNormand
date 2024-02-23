@@ -1,26 +1,29 @@
-## Hello 👋
+## Hello
 
-My name is Agustín, I'm 24 years old, and I'm from Argentina.
+My name is Agustín, I am 25 years old, I am from Argentina.
 
-- 🌱 Currently, I'm learning about Artificial Intelligence, Remote Sensing, and Image Processing.
+- 🌱 I am currently learning about Information Retrieval, and Cybersecurity.
 
-- 🔭 At the moment, I'm working on a deforestation detection project in forests using satellite image analysis and deep learning techniques.
+<!-- - 🔭 At this moment I am working on a project to detect deforestation in forests through satellite image analysis applying deep learning techniques.-->
 
-- 👨‍🎓 This project is part of my thesis to obtain a Bachelor's degree in Information Systems.
+- 🔭 I am working at MercadoLibre as a Software Engineer.
 
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/normandagustin/) or by sending me an email at <normandagustin@gmail.com>.
+- 👨‍🎓 I am advancing in my last final exam and thesis to obtain a Bachelor's Degree in Information Systems.
 
+- 📫 You can contact me through [LinkedIn](https://www.linkedin.com/in/normandagustin/) or by sending me an email at <normandagustin@gmail.com>.
 
 
 ## Hola 👋
 
-Mi nombre es Agustín, tengo 24 años, soy de Argentina.
+Mi nombre es Agustín, tengo 25 años, soy de Argentina.
 
-- 🌱 Actualmente estoy aprendiendo sobre Inteligencia Artificial, Teledetección y Procesamiento de Imágenes.
+- 🌱 Actualmente estoy aprendiendo sobre Information Retrieval, y Cybersecurity.
 
-- 🔭 En este momento estoy trabajando en un proyecto de detección de deforestación en bosques mediante análisis de imágenes satelitales aplicando técnicas de aprendizaje profundo.
+<!-- - 🔭 En este momento estoy trabajando en un proyecto de detección de deforestación en bosques mediante análisis de imágenes satelitales aplicando técnicas de aprendizaje profundo.-->
 
-- 👨‍🎓 Dicho proyecto forma parte de mi tesina para obtener la Licenciatura en Sistemas de Información.
+- 🔭 Estoy trabajando en MercadoLibre como Ingeniero de Software.
+
+- 👨‍🎓 Estoy avanzando en mi último examen final y tesina para obtener la Licenciatura en Sistemas de Información.
 
 - 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/normandagustin/) o envíandome un correo a <normandagustin@gmail.com>.
 
