@@ -15,7 +15,7 @@ My name is Agustín, I am 27 years old, I am from Argentina.
 
 ## Hola 👋
 
-Mi nombre es Agustín, tengo 26 años, soy de Argentina.
+Mi nombre es Agustín, tengo 27 años, soy de Argentina.
 
 - 🌱 Actualmente estoy aprendiendo sobre Information Retrieval, y Cybersecurity.
 
